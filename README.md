@@ -12,7 +12,7 @@ Bridge Extension is supported from CC2018 recently and bit different with other 
 like It doen't support Extension Types "Panel"
 functions are so easy just call directory path which opened on Bridge or write selected file's name on panel and register file's path as a dataset
 
-*please put on the folder at Application => Adobe Bridge CC ver(have to be more then 2018) => CEP => extensions
+Bridge Extension folder is probably Application => Adobe Bridge CC ver(have to be more then 2018) => CEP => extensions
 but I haven't checked any language environment except Japanese 
 so I'm not sure it correct or not in case of English environment 
 
